@@ -1,4 +1,4 @@
-COVID Dataset Link: https://ourworldindata.org/covid-deaths
+--COVID Dataset Link: https://ourworldindata.org/covid-deaths
 
 SELECT *
 FROM CovidDeaths
